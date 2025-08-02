@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ex3
+comment1.params=
+comment1.target=void\ write()
+comment2.params=
+comment2.target=void\ details()
+comment3.params=type
+comment3.target=void\ printInfo(java.lang.String)
+comment4.params=type\ colour
+comment4.target=void\ printInfo(java.lang.String,\ java.lang.String)
+comment5.params=Args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
