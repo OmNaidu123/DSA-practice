@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=quick
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list\ lb\ ub
+comment2.target=void\ quicksort(int[],\ int,\ int)
+comment3.params=list\ lb\ ub
+comment3.target=int\ sorting(int[],\ int,\ int)
+numComments=4
