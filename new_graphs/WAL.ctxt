@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WAL
+comment0.text=\r\n\ Write\ a\ description\ of\ AL\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=graph\ V
+comment1.target=void\ Nidentiyer(java.util.ArrayList[],\ int)
+comment2.params=graph\ V
+comment2.target=void\ creator(java.util.ArrayList[],\ int)
+comment3.params=Args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

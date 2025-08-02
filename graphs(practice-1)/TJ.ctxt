@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TJ
+comment0.text=\r\n\ Write\ a\ description\ of\ TJ\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=graph
+comment1.target=void\ createGraph(java.util.ArrayList[])
+comment2.params=graph\ curr\ vis\ dst\ low\ par\ time
+comment2.target=void\ dfs(java.util.ArrayList[],\ int,\ boolean[],\ int[],\ int[],\ int,\ int)
+comment3.params=graph\ V
+comment3.target=void\ tarjan(java.util.ArrayList[],\ int)
+comment4.params=graph\ curr\ par\ time\ dst\ low\ vis\ ap
+comment4.target=void\ dfs2(java.util.ArrayList[],\ int,\ int,\ int,\ int[],\ int[],\ boolean[],\ boolean[])
+comment5.params=graph\ V
+comment5.target=void\ tarjan2(java.util.ArrayList[],\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
